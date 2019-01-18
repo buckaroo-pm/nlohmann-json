@@ -23,3 +23,11 @@ cmake-build-debug
 
 test/test-*
 /.vs
+
+.buckd
+buck-out
+.buckconfig.local
+.buckconfig.d
+buckaroo
+buckaroo_macros.bzl
+buckaroo-linux
